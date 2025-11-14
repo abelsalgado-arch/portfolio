@@ -1,13 +1,14 @@
 # 🚀 AI Lead IQ Dashboard  
+> **Part 1 of my AI Sales Portfolio**  
+> Building real tools that demonstrate technical depth + sales understanding.
+
 A sales-focused AI prototype that enriches leads, scores ICP fit, and generates personalized outreach in seconds.
 
 ## 🔗 Live Demo  
-👉 https://your-bolt-demo-link-here.com  
-*(Replace this with your actual link)*
+👉 https://v0-ai-lead-iq-dashboard.vercel.app/
 
 ## 🎥 Loom Walkthrough  
-👉 https://your-loom-link-here.com  
-*(Replace with your Loom video)*
+👉 https://www.loom.com/share/5f4cce7e107f4904bf6286a541ddd4d0
 
 ---
 
@@ -78,16 +79,20 @@ Simple playbook to move the lead forward.
 ---
 
 ## 📸 Screenshots  
-_(Upload screenshots to this repo, then replace the file names below.)_
+Clean visual previews of the AI Lead Workflow.
 
-![Lead Input](<img width="1579" height="754" alt="Screenshot 2025-11-14 at 11 50 37 AM" src="https://github.com/user-attachments/assets/83b72c41-2078-4341-8d67-d8ac9d98fbd7" />
-)  
-![Enrichment](<img width="1536" height="843" alt="Screenshot 2025-11-14 at 11 51 27 AM" src="https://github.com/user-attachments/assets/640a9abd-0691-4b51-94a1-d7b7da751bbb" />
-)  
-![Lead Score](<img width="1498" height="1043" alt="Screenshot 2025-11-14 at 11 51 40 AM" src="https://github.com/user-attachments/assets/be277dbf-1f66-4fdd-9c39-6df76e24c30a" />
-)  
-![Outreach](<img width="1533" height="499" alt="Screenshot 2025-11-14 at 11 51 51 AM" src="https://github.com/user-attachments/assets/4758d1b9-fa0e-4790-b178-6405068a6cbd" />
-)
+### 1️⃣ Lead Input  
+<img src="https://github.com/user-attachments/assets/83b72c41-2078-4341-8d67-d8ac9d98fbd7" width="600">
+
+### 2️⃣ Lead Enrichment  
+<img src="https://github.com/user-attachments/assets/640a9abd-0691-4b51-94a1-d7b7da751bbb" width="600">
+
+### 3️⃣ Lead Scoring  
+<img src="https://github.com/user-attachments/assets/be277dbf-1f66-4fdd-9c39-6df76e24c30a" width="600">
+
+### 4️⃣ Outreach Message  
+<img src="https://github.com/user-attachments/assets/4758d1b9-fa0e-4790-b178-6405068a6cbd" width="600">
+
 
 ---
 
@@ -107,6 +112,25 @@ _(Upload screenshots to this repo, then replace the file names below.)_
 
 ---
 
-## 👋 Connect With Me  
-If you're hiring SDR/BDR/AE talent — especially for AI, SaaS, or B2B — I’d love to connect and share more about this project.
+## ✅ Conclusion
+
+This project demonstrates my ability to:
+
+- Build a working AI-powered SaaS-style workflow from scratch  
+- Design a full lead-qualification and enrichment pipeline  
+- Convert messy raw data into actionable sales insights  
+- Communicate workflows clearly to hiring managers and technical teams  
+- Work across AI prompting, data structuring, and UX explanation  
+
+This is the first project in my AI Sales & Technical Portfolio.  
+More projects will follow that deepen my abilities in:
+
+- AI-assisted outbound workflows  
+- GPT-powered automations  
+- CRM integrations  
+- B2B lead scoring  
+- AI-driven sales research  
+
+If you’re a hiring manager, salesperson, or recruiter reviewing this:  
+**Thank you for taking the time. I’m actively pursuing an AI-focused SDR/BDR or Sales Engineer path and would love to discuss this project further.**
 
