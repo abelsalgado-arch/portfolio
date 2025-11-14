@@ -80,10 +80,14 @@ Simple playbook to move the lead forward.
 ## 📸 Screenshots  
 _(Upload screenshots to this repo, then replace the file names below.)_
 
-![Lead Input](screenshots/lead-input.png)  
-![Enrichment](screenshots/enrichment.png)  
-![Lead Score](screenshots/lead-score.png)  
-![Outreach](screenshots/outreach.png)
+![Lead Input](<img width="1579" height="754" alt="Screenshot 2025-11-14 at 11 50 37 AM" src="https://github.com/user-attachments/assets/83b72c41-2078-4341-8d67-d8ac9d98fbd7" />
+)  
+![Enrichment](<img width="1536" height="843" alt="Screenshot 2025-11-14 at 11 51 27 AM" src="https://github.com/user-attachments/assets/640a9abd-0691-4b51-94a1-d7b7da751bbb" />
+)  
+![Lead Score](<img width="1498" height="1043" alt="Screenshot 2025-11-14 at 11 51 40 AM" src="https://github.com/user-attachments/assets/be277dbf-1f66-4fdd-9c39-6df76e24c30a" />
+)  
+![Outreach](<img width="1533" height="499" alt="Screenshot 2025-11-14 at 11 51 51 AM" src="https://github.com/user-attachments/assets/4758d1b9-fa0e-4790-b178-6405068a6cbd" />
+)
 
 ---
 
